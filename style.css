@@ -1,0 +1,30 @@
+body {background-color:#D5E1EF;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+.qr-container{background-color: #fff;
+width: 320px;
+margin:auto;
+padding: 20px;
+border-radius: 20px;
+}
+
+img{height: auto;
+width: 100%;
+position:relative;
+border-radius: 10px;}
+
+h1, p{text-align: center;
+    font-family: Outfit;
+    padding-top: 10px;
+  }
+
+p{ font-weight: 400;
+    font-size: 16px;
+color: #8E9397;
+padding:0 10px 10px 10px;}
+
+h1{font-weight: 700;
+    font-size:25px;}
